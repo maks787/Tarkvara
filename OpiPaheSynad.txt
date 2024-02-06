@@ -7,3 +7,14 @@
 Проект по разработке - Arendusprojekt
 Проект по реализации - Realiseerimisprojekt
 Диаграмма Ганта - Gantt diagramm
+?критический путь проекта
+?виды рисков в проекте
+?аутсортсинг
+?краудсортсинг
+?ИТ аудит
+?ERP системы
+?ROI для оценки проектов
+?Tacit
+?Knowledge Managment System
+?cистемы управления базами данных – какие знаете?
+?Project Managment Tool
