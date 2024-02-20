@@ -18,3 +18,24 @@ Tacit - süsteemid Tacit
 Knowledge Managment System - KMS - ?
 cистемы управления базами данных – какие знаете - andmebaaside haldus süsteemid - MS SQL, XAMPP,MS access
 Project Managment Tool - projekti haldamisetarkvara - MS project
+mudel - Модель
+kasutusmalliskeem - диаграмма прецедентов
+tegevusskeem - диаграмма активности
+jadaskeem - диаграмма последовательности
+klassisskeem - диаграмма класса
+koostööskeem - диаграмма взаимодействевия 
+
+andmebaasiskeem - диаграмма базы данных
+olem - сущность 
+seos - связь
+
+muster - узор схема шаблон
+mustand - черновик
+
+punkt - пункт
+romb - ромб
+ristkülik- прямоугольник 
+nool - стрелка
+joon-линия
+algussõlm - начальный узел
+ovaal - овал
